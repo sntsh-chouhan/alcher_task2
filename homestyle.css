@@ -53,14 +53,14 @@ main{
 	padding-right: 15px;
 }
 
-.title{
+.title1s{
 	text-align: center;
 	/*font-family:  Helvetica, sans-serif;*/
 	padding-top: 30px;
 	padding-bottom: 17px;
 	font-weight: 900;
 }
-.title samp{
+.title1s samp{
 	font-size: 36px;
 	color: #497DF2;
 	font-weight: 900;
